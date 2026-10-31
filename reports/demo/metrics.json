@@ -1,0 +1,111 @@
+{
+  "data_kind": "synthetic",
+  "label": "SYNTHETIC DEMO — NOT REAL PERFORMANCE",
+  "seed": 42,
+  "test_target_year": 2024,
+  "feature_year": 2023,
+  "positive_class": "loss",
+  "threshold": 0.5,
+  "selected_model": "hist_gradient_boosting",
+  "selected_features": "financial",
+  "selection": "highest mean rolling validation average precision; no test selection",
+  "metrics": {
+    "n": 97,
+    "loss_prevalence": 0.4536082474226804,
+    "accuracy": 0.7010309278350515,
+    "balanced_accuracy": 0.6936106346483706,
+    "loss_precision": 0.6923076923076923,
+    "loss_recall": 0.6136363636363636,
+    "loss_f1": 0.6506024096385542,
+    "roc_auc": 0.7315608919382505,
+    "average_precision": 0.6693356238819947,
+    "brier": 0.2135430322000463
+  },
+  "baselines": {
+    "training_class_prior": {
+      "n": 97,
+      "loss_prevalence": 0.4536082474226804,
+      "accuracy": 0.5463917525773195,
+      "balanced_accuracy": 0.5,
+      "loss_precision": 0.0,
+      "loss_recall": 0.0,
+      "loss_f1": 0.0,
+      "roc_auc": 0.5,
+      "average_precision": 0.4536082474226804,
+      "brier": 0.2503795118260163
+    },
+    "previous_year_loss": {
+      "n": 97,
+      "loss_prevalence": 0.4536082474226804,
+      "accuracy": 0.6597938144329897,
+      "balanced_accuracy": 0.6597341337907375,
+      "loss_precision": 0.6170212765957447,
+      "loss_recall": 0.6590909090909091,
+      "loss_f1": 0.6373626373626373,
+      "roc_auc": 0.6533018867924528,
+      "average_precision": 0.5613122893776545,
+      "brier": 0.34355968213014776
+    }
+  },
+  "bootstrap_95_percent_intervals": {
+    "roc_auc": [
+      0.6361385077186964,
+      0.8235956260720411
+    ],
+    "average_precision": [
+      0.5708191308840616,
+      0.8098454048736016
+    ],
+    "loss_recall": [
+      0.45454545454545453,
+      0.75
+    ]
+  },
+  "interval_scope": "stratified firm resampling in one test year; excludes training/time uncertainty",
+  "quality": {
+    "rows": 700,
+    "companies": 100,
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "data_kind": "synthetic",
+    "missing_fraction": {
+      "revenue": 0.0,
+      "operating_income": 0.024285714285714285,
+      "net_income": 0.025714285714285714,
+      "assets": 0.0,
+      "liabilities": 0.0,
+      "employees": 0.03428571428571429
+    },
+    "missing_net_income": 18,
+    "zero_net_income": 0,
+    "scope": "annual OFS; amounts in source currency KRW; employee headcount"
+  },
+  "eligible_examples": 583,
+  "missing_or_zero_outcome_policy": "exclude; never impute target",
+  "panel_sha256": "39da8b269f82e1ec32fb70c202a30adbe73ff69fe844d688da8ad7db6f0fed11",
+  "source_sha256": "cea854e92f0360c828a401e27545865dc28aac24d11937719bfd584176182340",
+  "git_commit": "4605392cda7e87c3d733f31f27c5d2cb9d643cb6",
+  "git_dirty": true,
+  "python": "3.12.13",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "limitations": [
+    "Fiscal-year ordering is not a point-in-time investment backtest.",
+    "Current DART data may include restatements unavailable historically.",
+    "Employee definitions and source coverage require manual audit.",
+    "Same firms may recur over time; unseen-firm generalization is not measured.",
+    "Associations and permutation importance are not causal effects."
+  ]
+}
