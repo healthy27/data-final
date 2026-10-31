@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "data-final"
+version = "0.1.0"
+description = "Auditable Korean corporate employment and financial analysis"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "pandas>=2.2,<3", "numpy>=2,<3", "scipy>=1.14,<2",
+  "scikit-learn>=1.6,<2", "matplotlib>=3.9,<4", "requests>=2.32,<3",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1", "nbformat>=5,<6", "nbclient>=0.10,<1", "ipykernel>=6,<8"]
+
+[project.scripts]
+data-final = "data_final.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/data_final"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
