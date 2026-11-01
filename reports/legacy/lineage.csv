@@ -1,0 +1,1657 @@
+company,year,metric,status,source,sheet,source_rows,accounts
+CJ,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1846,당기순이익
+CJ,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1854,영업이익
+CJ,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1847,매출액
+CJ,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1846,당기순이익
+CJ,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1854,영업이익
+CJ,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1847,매출액
+CJ,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ대한통운,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1030;1031,당기순이익;당기순이익(손실)
+CJ대한통운,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1037,영업이익
+CJ대한통운,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1032,매출액
+CJ대한통운,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ대한통운,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ대한통운,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ대한통운,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1030;1031,당기순이익;당기순이익(손실)
+CJ대한통운,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1037,영업이익
+CJ대한통운,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1032,매출액
+CJ대한통운,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ대한통운,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+CJ대한통운,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ바이오사이언스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4761,당기순이익(손실)
+CJ바이오사이언스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4776,영업이익(손실)
+CJ바이오사이언스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4774,수익(매출액)
+CJ바이오사이언스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4786,자산총계
+CJ바이오사이언스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4772,부채총계
+CJ바이오사이언스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ바이오사이언스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4761,당기순이익(손실)
+CJ바이오사이언스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4776,영업이익(손실)
+CJ바이오사이언스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4774,수익(매출액)
+CJ바이오사이언스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4786,자산총계
+CJ바이오사이언스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4772,부채총계
+CJ바이오사이언스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ제일제당,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,686,당기순이익(손실)
+CJ제일제당,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,700,영업이익
+CJ제일제당,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,699,수익(매출액)
+CJ제일제당,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,708,자산총계
+CJ제일제당,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,698,부채총계
+CJ제일제당,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+CJ제일제당,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,686,당기순이익(손실)
+CJ제일제당,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,700,영업이익
+CJ제일제당,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,699,수익(매출액)
+CJ제일제당,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,708,자산총계
+CJ제일제당,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,698,부채총계
+CJ제일제당,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+DL이앤씨,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1823,당기순이익
+DL이앤씨,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1829,영업이익
+DL이앤씨,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1824,매출액
+DL이앤씨,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+DL이앤씨,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+DL이앤씨,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+DL이앤씨,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1823,당기순이익
+DL이앤씨,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1829,영업이익
+DL이앤씨,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1824,매출액
+DL이앤씨,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+DL이앤씨,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+DL이앤씨,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+GS건설,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1516,당기순이익(손실)
+GS건설,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1525,영업이익
+GS건설,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1517,매출액
+GS건설,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+GS건설,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+GS건설,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+GS건설,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1516,당기순이익(손실)
+GS건설,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1525,영업이익
+GS건설,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1517,매출액
+GS건설,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+GS건설,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+GS건설,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+GS리테일,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1044,당기순이익(손실)
+GS리테일,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1057,영업이익(손실)
+GS리테일,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1056,수익(매출액)
+GS리테일,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1065,자산총계
+GS리테일,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1055,부채총계
+GS리테일,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+GS리테일,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1044,당기순이익(손실)
+GS리테일,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1057,영업이익(손실)
+GS리테일,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1056,수익(매출액)
+GS리테일,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1065,자산총계
+GS리테일,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1055,부채총계
+GS리테일,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+HMM,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,625,당기순이익(손실)
+HMM,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,641,영업이익(손실)
+HMM,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,638,수익(매출액)
+HMM,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,649,자산총계
+HMM,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,636,부채총계
+HMM,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+HMM,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,625,당기순이익(손실)
+HMM,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,641,영업이익(손실)
+HMM,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,638,수익(매출액)
+HMM,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,649,자산총계
+HMM,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,636,부채총계
+HMM,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+ISC,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3078;3095,1. 당기순이익;당기순이익
+ISC,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3119,영업이익
+ISC,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3096,매출액
+ISC,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3130,자산총계
+ISC,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3116,부채총계
+ISC,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+ISC,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3078;3095,1. 당기순이익;당기순이익
+ISC,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3119,영업이익
+ISC,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3096,매출액
+ISC,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3130,자산총계
+ISC,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3116,부채총계
+ISC,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+JTC,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2793,당기순이익(손실)
+JTC,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2817,영업이익(손실)
+JTC,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2795;2815,매출액;수익(매출액)
+JTC,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2832,자산총계
+JTC,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2813,부채총계
+JTC,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+JTC,2022,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2793,당기순이익(손실)
+JTC,2022,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2817,영업이익(손실)
+JTC,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2795;2815,매출액;수익(매출액)
+JTC,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2832,자산총계
+JTC,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2813,부채총계
+JTC,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+KCC,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1757,당기순이익(손실)
+KCC,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1781,영업이익
+KCC,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1758,매출액
+KCC,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1791,자산총계
+KCC,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1777,부채총계
+KCC,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+KCC,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1757,당기순이익(손실)
+KCC,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1781,영업이익
+KCC,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1758,매출액
+KCC,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1791,자산총계
+KCC,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1777,부채총계
+KCC,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG디스플레이,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1643,당기순이익(손실)
+LG디스플레이,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1666,영업이익(손실)
+LG디스플레이,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG디스플레이,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1678,자산총계
+LG디스플레이,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1663,부채총계
+LG디스플레이,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG디스플레이,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1643,당기순이익(손실)
+LG디스플레이,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1666,영업이익(손실)
+LG디스플레이,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG디스플레이,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1678,자산총계
+LG디스플레이,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1663,부채총계
+LG디스플레이,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG생활건강,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,465,당기순이익(손실)
+LG생활건강,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,471,영업이익(손실)
+LG생활건강,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,466,매출액
+LG생활건강,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG생활건강,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG생활건강,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG생활건강,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,465,당기순이익(손실)
+LG생활건강,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,471,영업이익(손실)
+LG생활건강,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,466,매출액
+LG생활건강,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG생활건강,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG생활건강,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG에너지솔루션,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,73,당기순이익(손실)
+LG에너지솔루션,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,80,영업이익(손실)
+LG에너지솔루션,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG에너지솔루션,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG에너지솔루션,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG에너지솔루션,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG에너지솔루션,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,73,당기순이익(손실)
+LG에너지솔루션,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,80,영업이익(손실)
+LG에너지솔루션,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG에너지솔루션,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG에너지솔루션,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG에너지솔루션,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG유플러스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1202,당기순이익
+LG유플러스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1206,영업이익
+LG유플러스,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG유플러스,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG유플러스,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG유플러스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG유플러스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1202,당기순이익
+LG유플러스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1206,영업이익
+LG유플러스,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG유플러스,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG유플러스,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG유플러스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG전자,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,333,당기순이익(손실)
+LG전자,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,340,영업이익(손실)
+LG전자,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,334,매출액
+LG전자,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG전자,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG전자,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG전자,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,333,당기순이익(손실)
+LG전자,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,340,영업이익(손실)
+LG전자,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,334,매출액
+LG전자,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG전자,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG전자,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG화학,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,184,당기순이익(손실)
+LG화학,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,191;192,영업이익;영업이익 (손실)
+LG화학,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG화학,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG화학,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG화학,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LG화학,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,184,당기순이익(손실)
+LG화학,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,191;192,영업이익;영업이익 (손실)
+LG화학,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG화학,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG화학,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LG화학,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LS,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1722,당기순이익
+LS,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1738,영업이익
+LS,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LS,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1747,자산총계
+LS,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1736,부채총계
+LS,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LS,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1722,당기순이익
+LS,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1738,영업이익
+LS,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LS,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1747,자산총계
+LS,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1736,부채총계
+LS,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LX하우시스,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1858,당기순이익(손실)
+LX하우시스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1866,영업이익
+LX하우시스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1859,매출액
+LX하우시스,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LX하우시스,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LX하우시스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+LX하우시스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1858,당기순이익(손실)
+LX하우시스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1866,영업이익
+LX하우시스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1859,매출액
+LX하우시스,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LX하우시스,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+LX하우시스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+NAVER,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,129,당기순이익
+NAVER,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,139,영업이익
+NAVER,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+NAVER,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,148,자산총계
+NAVER,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,137,부채총계
+NAVER,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+NAVER,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,129,당기순이익
+NAVER,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,139,영업이익
+NAVER,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+NAVER,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,148,자산총계
+NAVER,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,137,부채총계
+NAVER,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+POSCO홀딩스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,205;219,당기순이익(손실);연결당기순이익
+POSCO홀딩스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,221,영업이익
+POSCO홀딩스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,206,매출액
+POSCO홀딩스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,232,자산총계
+POSCO홀딩스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,218,부채총계
+POSCO홀딩스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+POSCO홀딩스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,205;219,당기순이익(손실);연결당기순이익
+POSCO홀딩스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,221,영업이익
+POSCO홀딩스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,206,매출액
+POSCO홀딩스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,232,자산총계
+POSCO홀딩스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,218,부채총계
+POSCO홀딩스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+S-Oil,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,493,당기순이익(손실)
+S-Oil,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,507,영업이익(손실)
+S-Oil,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,494,매출액
+S-Oil,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,514,자산총계
+S-Oil,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,506,부채총계
+S-Oil,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+S-Oil,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,493,당기순이익(손실)
+S-Oil,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,507,영업이익(손실)
+S-Oil,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,494,매출액
+S-Oil,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,514,자산총계
+S-Oil,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,506,부채총계
+S-Oil,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SFA반도체,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3373,당기순이익(손실)
+SFA반도체,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3387,영업이익(손실)
+SFA반도체,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3374,매출액
+SFA반도체,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3396,자산총계
+SFA반도체,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3385,부채총계
+SFA반도체,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SFA반도체,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3373,당기순이익(손실)
+SFA반도체,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3387,영업이익(손실)
+SFA반도체,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3374,매출액
+SFA반도체,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3396,자산총계
+SFA반도체,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3385,부채총계
+SFA반도체,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK가스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1369;1370,당기순이익;당기순이익(손실)
+SK가스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1386,영업이익
+SK가스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1371,매출액
+SK가스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1394,자산총계
+SK가스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1385,부채총계
+SK가스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK가스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1369;1370,당기순이익;당기순이익(손실)
+SK가스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1386,영업이익
+SK가스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1371,매출액
+SK가스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1394,자산총계
+SK가스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1385,부채총계
+SK가스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK바이오사이언스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1146,당기순이익
+SK바이오사이언스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1160;1161,영업이익;영업이익(손실)
+SK바이오사이언스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1147,매출액
+SK바이오사이언스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1168,자산총계
+SK바이오사이언스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1159,부채총계
+SK바이오사이언스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK바이오사이언스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1146,당기순이익
+SK바이오사이언스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1160;1161,영업이익;영업이익(손실)
+SK바이오사이언스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1147,매출액
+SK바이오사이언스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1168,자산총계
+SK바이오사이언스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1159,부채총계
+SK바이오사이언스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK이노베이션,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,404;405;421,당기순이익(손실);당기연결순이익(손실);연결당기순이익(손실)
+SK이노베이션,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,423,영업이익
+SK이노베이션,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,406,매출액
+SK이노베이션,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,430,자산총계
+SK이노베이션,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,420,부채총계
+SK이노베이션,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK이노베이션,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,404;405;421,당기순이익(손실);당기연결순이익(손실);연결당기순이익(손실)
+SK이노베이션,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,423,영업이익
+SK이노베이션,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,406,매출액
+SK이노베이션,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,430,자산총계
+SK이노베이션,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,420,부채총계
+SK이노베이션,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK텔레콤,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,478;479,당기순이익;당기순이익(손실)
+SK텔레콤,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,484,영업이익(손실)
+SK텔레콤,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,480,매출액
+SK텔레콤,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+SK텔레콤,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+SK텔레콤,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK텔레콤,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,478;479,당기순이익;당기순이익(손실)
+SK텔레콤,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,484,영업이익(손실)
+SK텔레콤,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,480,매출액
+SK텔레콤,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+SK텔레콤,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+SK텔레콤,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK하이닉스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,20,당기순이익
+SK하이닉스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,34,영업이익
+SK하이닉스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,21,매출액
+SK하이닉스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,41,자산총계
+SK하이닉스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,33,부채총계
+SK하이닉스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+SK하이닉스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,20,당기순이익
+SK하이닉스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,34,영업이익
+SK하이닉스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,21,매출액
+SK하이닉스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,41,자산총계
+SK하이닉스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,33,부채총계
+SK하이닉스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+강원랜드,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1567;1574;1575,(1) 연결당기순이익;당기순이익;당기순이익(손실)
+강원랜드,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1592,영업이익(손실)
+강원랜드,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1591,수익(매출액)
+강원랜드,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1604,자산총계
+강원랜드,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1589,부채총계
+강원랜드,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+강원랜드,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1567;1574;1575,(1) 연결당기순이익;당기순이익;당기순이익(손실)
+강원랜드,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1592,영업이익(손실)
+강원랜드,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1591,수익(매출액)
+강원랜드,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1604,자산총계
+강원랜드,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1589,부채총계
+강원랜드,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+고려아연,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,347,당기의 순이익
+고려아연,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,361,영업이익
+고려아연,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+고려아연,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,369,자산총계
+고려아연,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,359,부채총계
+고려아연,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+고려아연,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,347,당기의 순이익
+고려아연,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,361,영업이익
+고려아연,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+고려아연,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,369,자산총계
+고려아연,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,359,부채총계
+고려아연,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+금양,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4403,당기순이익(손실)
+금양,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4417,영업이익(손실)
+금양,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4404,매출액
+금양,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4426,자산총계
+금양,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4414,부채총계
+금양,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+금양,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4403,당기순이익(손실)
+금양,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4417,영업이익(손실)
+금양,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4404,매출액
+금양,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4426,자산총계
+금양,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4414,부채총계
+금양,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+금호석유화학,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1833,당기순이익(손실)
+금호석유화학,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1840,영업이익(손실)
+금호석유화학,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1834,매출액
+금호석유화학,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+금호석유화학,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+금호석유화학,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+금호석유화학,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1833,당기순이익(손실)
+금호석유화학,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1840,영업이익(손실)
+금호석유화학,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1834,매출액
+금호석유화학,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+금호석유화학,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+금호석유화학,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+네오위즈,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4324,당기순이익(손실)
+네오위즈,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4340,영업이익
+네오위즈,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+네오위즈,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4349,자산총계
+네오위즈,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4334,부채총계
+네오위즈,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+네오위즈,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4324,당기순이익(손실)
+네오위즈,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4340,영업이익
+네오위즈,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+네오위즈,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4349,자산총계
+네오위즈,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4334,부채총계
+네오위즈,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+네패스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3459,당기순이익(손실)
+네패스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3485,영업이익(손실)
+네패스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3483,수익(매출액)
+네패스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3496,자산총계
+네패스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3480,부채총계
+네패스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+네패스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3459,당기순이익(손실)
+네패스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3485,영업이익(손실)
+네패스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3483,수익(매출액)
+네패스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3496,자산총계
+네패스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3480,부채총계
+네패스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대우건설,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1812,당기순이익(손실)
+대우건설,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1818,영업이익(손실)
+대우건설,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1813,매출액
+대우건설,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대우건설,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대우건설,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대우건설,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1812,당기순이익(손실)
+대우건설,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1818,영업이익(손실)
+대우건설,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1813,매출액
+대우건설,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대우건설,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대우건설,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대웅제약,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3968,당기순이익(손실)
+대웅제약,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3993,영업이익(손실)
+대웅제약,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대웅제약,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4007,자산총계
+대웅제약,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3990,부채총계
+대웅제약,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대웅제약,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3968,당기순이익(손실)
+대웅제약,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3993,영업이익(손실)
+대웅제약,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대웅제약,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4007,자산총계
+대웅제약,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3990,부채총계
+대웅제약,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대한전선,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1336;1337,당기순이익;당기순이익(손실)
+대한전선,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1352,영업이익
+대한전선,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1339,매출액
+대한전선,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1359,자산총계
+대한전선,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1351,부채총계
+대한전선,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대한전선,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1336;1337,당기순이익;당기순이익(손실)
+대한전선,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1352,영업이익
+대한전선,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1339,매출액
+대한전선,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1359,자산총계
+대한전선,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1351,부채총계
+대한전선,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대한항공,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,578,당기순이익(손실)
+대한항공,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,602,영업이익(손실)
+대한항공,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대한항공,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,617,자산총계
+대한항공,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,601,부채총계
+대한항공,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+대한항공,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,578,당기순이익(손실)
+대한항공,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,602,영업이익(손실)
+대한항공,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+대한항공,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,617,자산총계
+대한항공,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,601,부채총계
+대한항공,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+덕산네오룩스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3429,당기순이익
+덕산네오룩스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3440,영업이익
+덕산네오룩스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3431,매출액
+덕산네오룩스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3446,자산총계
+덕산네오룩스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3438,부채총계
+덕산네오룩스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+덕산네오룩스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3429,당기순이익
+덕산네오룩스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3440,영업이익
+덕산네오룩스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3431,매출액
+덕산네오룩스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3446,자산총계
+덕산네오룩스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3438,부채총계
+덕산네오룩스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+동진쎄미켐,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4156,당기순이익
+동진쎄미켐,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4178,영업이익(손실)
+동진쎄미켐,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+동진쎄미켐,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4192,자산총계
+동진쎄미켐,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4175,부채총계
+동진쎄미켐,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+동진쎄미켐,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4156,당기순이익
+동진쎄미켐,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4178,영업이익(손실)
+동진쎄미켐,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+동진쎄미켐,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4192,자산총계
+동진쎄미켐,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4175,부채총계
+동진쎄미켐,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+두산,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,850,-당기순이익(손실)
+두산,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,872,영업이익(손실)
+두산,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,860,매출액
+두산,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+두산,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,850,-당기순이익(손실)
+두산,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,872,영업이익(손실)
+두산,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,860,매출액
+두산,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+두산에너빌리티,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,376,당기순이익(손실)
+두산에너빌리티,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,382,영업이익(손실)
+두산에너빌리티,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,377,매출액
+두산에너빌리티,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산에너빌리티,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산에너빌리티,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+두산에너빌리티,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,376,당기순이익(손실)
+두산에너빌리티,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,382,영업이익(손실)
+두산에너빌리티,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,377,매출액
+두산에너빌리티,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산에너빌리티,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+두산에너빌리티,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+두산퓨얼셀,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3227;3228,당기순이익;당기순이익(손실)
+두산퓨얼셀,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3242,영업이익
+두산퓨얼셀,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3230,매출액
+두산퓨얼셀,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3251,자산총계
+두산퓨얼셀,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3241,부채총계
+두산퓨얼셀,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+두산퓨얼셀,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3227;3228,당기순이익;당기순이익(손실)
+두산퓨얼셀,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3242,영업이익
+두산퓨얼셀,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3230,매출액
+두산퓨얼셀,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3251,자산총계
+두산퓨얼셀,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3241,부채총계
+두산퓨얼셀,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+라온피플,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3143;3144,당기순이익;당기순이익(손실)
+라온피플,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3158,영업이익(손실)
+라온피플,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3146,매출액
+라온피플,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3166,자산총계
+라온피플,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3155,부채총계
+라온피플,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+라온피플,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3143;3144,당기순이익;당기순이익(손실)
+라온피플,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3158,영업이익(손실)
+라온피플,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3146,매출액
+라온피플,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3166,자산총계
+라온피플,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3155,부채총계
+라온피플,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+레인보우로보틱스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3798,당기순이익(손실)
+레인보우로보틱스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3815,영업이익(손실)
+레인보우로보틱스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3799,매출액
+레인보우로보틱스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3823,자산총계
+레인보우로보틱스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3812,부채총계
+레인보우로보틱스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+레인보우로보틱스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3798,당기순이익(손실)
+레인보우로보틱스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3815,영업이익(손실)
+레인보우로보틱스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3799,매출액
+레인보우로보틱스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3823,자산총계
+레인보우로보틱스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3812,부채총계
+레인보우로보틱스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+롯데쇼핑,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,973,당기순이익(손실)
+롯데쇼핑,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,989,영업이익
+롯데쇼핑,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+롯데쇼핑,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,996,자산총계
+롯데쇼핑,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,987,부채총계
+롯데쇼핑,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+롯데쇼핑,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,973,당기순이익(손실)
+롯데쇼핑,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,989,영업이익
+롯데쇼핑,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+롯데쇼핑,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,996,자산총계
+롯데쇼핑,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,987,부채총계
+롯데쇼핑,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+롯데칠성,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1302,당기순이익(손실)
+롯데칠성,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1316,영업이익
+롯데칠성,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+롯데칠성,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1325,자산총계
+롯데칠성,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1315,부채총계
+롯데칠성,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+롯데칠성,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1302,당기순이익(손실)
+롯데칠성,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1316,영업이익
+롯데칠성,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+롯데칠성,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1325,자산총계
+롯데칠성,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1315,부채총계
+롯데칠성,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+롯데케미칼,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,812,당기순이익(손실)
+롯데케미칼,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,833,영업이익(손실)
+롯데케미칼,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+롯데케미칼,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,846,자산총계
+롯데케미칼,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,832,부채총계
+롯데케미칼,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+롯데케미칼,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,812,당기순이익(손실)
+롯데케미칼,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,833,영업이익(손실)
+롯데케미칼,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+롯데케미칼,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,846,자산총계
+롯데케미칼,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,832,부채총계
+롯데케미칼,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+리가켐바이오,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2014,당기순이익(손실)
+리가켐바이오,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2030,영업이익(손실)
+리가켐바이오,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+리가켐바이오,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2040,자산총계
+리가켐바이오,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2026,부채총계
+리가켐바이오,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+리가켐바이오,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2014,당기순이익(손실)
+리가켐바이오,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2030,영업이익(손실)
+리가켐바이오,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+리가켐바이오,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2040,자산총계
+리가켐바이오,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2026,부채총계
+리가켐바이오,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+모트렉스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3764,당기순이익(손실)
+모트렉스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3776,영업이익(손실)
+모트렉스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3775,수익(매출액)
+모트렉스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3785,자산총계
+모트렉스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3774,부채총계
+모트렉스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+모트렉스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3764,당기순이익(손실)
+모트렉스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3776,영업이익(손실)
+모트렉스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3775,수익(매출액)
+모트렉스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3785,자산총계
+모트렉스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3774,부채총계
+모트렉스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+바이오니아,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2922,당기순이익(손실)
+바이오니아,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2935,영업이익(손실)
+바이오니아,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2924,매출액
+바이오니아,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2944,자산총계
+바이오니아,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2934,부채총계
+바이오니아,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+바이오니아,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2922,당기순이익(손실)
+바이오니아,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2935,영업이익(손실)
+바이오니아,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2924,매출액
+바이오니아,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2944,자산총계
+바이오니아,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2934,부채총계
+바이오니아,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+바이오플러스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3602,당기순이익(손실)
+바이오플러스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3614,영업이익(손실)
+바이오플러스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3603,매출액
+바이오플러스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3622,자산총계
+바이오플러스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3612,부채총계
+바이오플러스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+바이오플러스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3602,당기순이익(손실)
+바이오플러스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3614,영업이익(손실)
+바이오플러스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3603,매출액
+바이오플러스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3622,자산총계
+바이오플러스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3612,부채총계
+바이오플러스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성SDI,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,86,당기순이익(손실)
+삼성SDI,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,103,영업이익(손실)
+삼성SDI,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,87,매출액
+삼성SDI,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,110,자산총계
+삼성SDI,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,101,부채총계
+삼성SDI,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성SDI,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,86,당기순이익(손실)
+삼성SDI,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,103,영업이익(손실)
+삼성SDI,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,87,매출액
+삼성SDI,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,110,자산총계
+삼성SDI,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,101,부채총계
+삼성SDI,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성바이오로직스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,48,당기순이익(손실)
+삼성바이오로직스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,60,영업이익(손실)
+삼성바이오로직스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,50,매출액
+삼성바이오로직스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,67,자산총계
+삼성바이오로직스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,59,부채총계
+삼성바이오로직스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성바이오로직스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,48,당기순이익(손실)
+삼성바이오로직스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,60,영업이익(손실)
+삼성바이오로직스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,50,매출액
+삼성바이오로직스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,67,자산총계
+삼성바이오로직스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,59,부채총계
+삼성바이오로직스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성에스디에스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,387,당기순이익(손실)
+삼성에스디에스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,393,영업이익
+삼성에스디에스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,388,매출액
+삼성에스디에스,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성에스디에스,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성에스디에스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성에스디에스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,387,당기순이익(손실)
+삼성에스디에스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,393,영업이익
+삼성에스디에스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,388,매출액
+삼성에스디에스,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성에스디에스,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성에스디에스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성전기,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,309,당기순이익
+삼성전기,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,320,영업이익
+삼성전기,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,310,매출액
+삼성전기,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전기,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전기,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성전기,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,309,당기순이익
+삼성전기,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,320,영업이익
+삼성전기,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,310,매출액
+삼성전기,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전기,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전기,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성전자,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,5,당기순이익(손실)
+삼성전자,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,12,영업이익
+삼성전자,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,11,수익(매출액)
+삼성전자,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전자,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전자,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성전자,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,5,당기순이익(손실)
+삼성전자,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,12,영업이익
+삼성전자,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,11,수익(매출액)
+삼성전자,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전자,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성전자,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성중공업,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1682,당기순이익(손실)
+삼성중공업,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1688,영업이익(손실)
+삼성중공업,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1683,매출액
+삼성중공업,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성중공업,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성중공업,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+삼성중공업,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1682,당기순이익(손실)
+삼성중공업,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1688,영업이익(손실)
+삼성중공업,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1683,매출액
+삼성중공업,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성중공업,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+삼성중공업,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+셀리드,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4648,당기순이익(손실)
+셀리드,2021,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4665,영업이익(손실)
+셀리드,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4650,매출액
+셀리드,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4672,자산총계
+셀리드,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4663,부채총계
+셀리드,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+셀리드,2022,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4648,당기순이익(손실)
+셀리드,2022,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4665,영업이익(손실)
+셀리드,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4650,매출액
+셀리드,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4672,자산총계
+셀리드,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4663,부채총계
+셀리드,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+셀바스AI,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2275,당기순이익(손실)
+셀바스AI,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2281,영업이익(손실)
+셀바스AI,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+셀바스AI,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+셀바스AI,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+셀바스AI,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+셀바스AI,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2275,당기순이익(손실)
+셀바스AI,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2281,영업이익(손실)
+셀바스AI,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+셀바스AI,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+셀바스AI,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+셀바스AI,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+솔브레인,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2650,당기순이익
+솔브레인,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2664,영업이익
+솔브레인,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2651,매출액
+솔브레인,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2672,자산총계
+솔브레인,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2660,부채총계
+솔브레인,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+솔브레인,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2650,당기순이익
+솔브레인,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2664,영업이익
+솔브레인,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2651,매출액
+솔브레인,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2672,자산총계
+솔브레인,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2660,부채총계
+솔브레인,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+수젠텍,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2997,당기순이익(손실)
+수젠텍,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3012,영업이익(손실)
+수젠텍,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2998,매출액
+수젠텍,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3024,자산총계
+수젠텍,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3009,부채총계
+수젠텍,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+수젠텍,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2997,당기순이익(손실)
+수젠텍,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3012,영업이익(손실)
+수젠텍,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2998,매출액
+수젠텍,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3024,자산총계
+수젠텍,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3009,부채총계
+수젠텍,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+씨앤씨인터내셔널,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2503,당기순이익(손실)
+씨앤씨인터내셔널,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2517,영업이익(손실)
+씨앤씨인터내셔널,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2504,매출액
+씨앤씨인터내셔널,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2524,자산총계
+씨앤씨인터내셔널,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2515,부채총계
+씨앤씨인터내셔널,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+씨앤씨인터내셔널,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2503,당기순이익(손실)
+씨앤씨인터내셔널,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2517,영업이익(손실)
+씨앤씨인터내셔널,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2504,매출액
+씨앤씨인터내셔널,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2524,자산총계
+씨앤씨인터내셔널,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2515,부채총계
+씨앤씨인터내셔널,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+씨유메디칼,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4539,당기순이익(손실)
+씨유메디칼,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4554,영업이익(손실)
+씨유메디칼,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4541,매출액
+씨유메디칼,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4564,자산총계
+씨유메디칼,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4552,부채총계
+씨유메디칼,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+씨유메디칼,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4539,당기순이익(손실)
+씨유메디칼,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4554,영업이익(손실)
+씨유메디칼,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4541,매출액
+씨유메디칼,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4564,자산총계
+씨유메디칼,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4552,부채총계
+씨유메디칼,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+씨젠,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2139,당기순이익
+씨젠,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2160,영업이익
+씨젠,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2140,매출액
+씨젠,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2172,자산총계
+씨젠,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2154,부채총계
+씨젠,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+씨젠,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2139,당기순이익
+씨젠,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2160,영업이익
+씨젠,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2140,매출액
+씨젠,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2172,자산총계
+씨젠,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2154,부채총계
+씨젠,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+아모레퍼시픽,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,715;716,당기순이익;당기순이익(손실)
+아모레퍼시픽,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,731,영업이익
+아모레퍼시픽,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,717,매출액
+아모레퍼시픽,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,740,자산총계
+아모레퍼시픽,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,730,부채총계
+아모레퍼시픽,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+아모레퍼시픽,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,715;716,당기순이익;당기순이익(손실)
+아모레퍼시픽,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,731,영업이익
+아모레퍼시픽,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,717,매출액
+아모레퍼시픽,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,740,자산총계
+아모레퍼시픽,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,730,부채총계
+아모레퍼시픽,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+아이센스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3748,당기순이익(손실)
+아이센스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3755,영업이익(손실)
+아이센스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3754,수익(매출액)
+아이센스,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+아이센스,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+아이센스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+아이센스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3748,당기순이익(손실)
+아이센스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3755,영업이익(손실)
+아이센스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3754,수익(매출액)
+아이센스,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+아이센스,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+아이센스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+아이씨디,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3333,당기순이익(손실)
+아이씨디,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3349,영업이익(손실)
+아이씨디,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3348,수익(매출액)
+아이씨디,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3358,자산총계
+아이씨디,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3347,부채총계
+아이씨디,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+아이씨디,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3333,당기순이익(손실)
+아이씨디,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3349,영업이익(손실)
+아이씨디,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3348,수익(매출액)
+아이씨디,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3358,자산총계
+아이씨디,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3347,부채총계
+아이씨디,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+압타바이오,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2732,당기순이익(손실)
+압타바이오,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2738,영업이익(손실)
+압타바이오,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+압타바이오,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2743,자산총계
+압타바이오,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2736,부채총계
+압타바이오,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+압타바이오,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2732,당기순이익(손실)
+압타바이오,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2738,영업이익(손실)
+압타바이오,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+압타바이오,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2743,자산총계
+압타바이오,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2736,부채총계
+압타바이오,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+어보브반도체,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2541,당기순이익(손실)
+어보브반도체,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2558,영업이익(손실)
+어보브반도체,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2557,수익(매출액)
+어보브반도체,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2566,자산총계
+어보브반도체,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2553,부채총계
+어보브반도체,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+어보브반도체,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2541,당기순이익(손실)
+어보브반도체,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2558,영업이익(손실)
+어보브반도체,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2557,수익(매출액)
+어보브반도체,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2566,자산총계
+어보브반도체,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2553,부채총계
+어보브반도체,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에스디바이오센서,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4691,당기순이익
+에스디바이오센서,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4706,영업이익
+에스디바이오센서,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+에스디바이오센서,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4715,자산총계
+에스디바이오센서,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4702,부채총계
+에스디바이오센서,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에스디바이오센서,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4691,당기순이익
+에스디바이오센서,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4706,영업이익
+에스디바이오센서,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+에스디바이오센서,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4715,자산총계
+에스디바이오센서,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4702,부채총계
+에스디바이오센서,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에스티팜,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3928,당기순이익(손실)
+에스티팜,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3943,영업이익(손실)
+에스티팜,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3941,수익(매출액)
+에스티팜,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3951,자산총계
+에스티팜,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3938,부채총계
+에스티팜,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에스티팜,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3928,당기순이익(손실)
+에스티팜,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3943,영업이익(손실)
+에스티팜,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3941,수익(매출액)
+에스티팜,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3951,자산총계
+에스티팜,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3938,부채총계
+에스티팜,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에이피알,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2290;2291,당기순이익;당기순이익(손실)
+에이피알,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2312;2313,영업이익;영업이익(손실)
+에이피알,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2292,매출액
+에이피알,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2329,자산총계
+에이피알,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2308,부채총계
+에이피알,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에이피알,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2290;2291,당기순이익;당기순이익(손실)
+에이피알,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2312;2313,영업이익;영업이익(손실)
+에이피알,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2292,매출액
+에이피알,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2329,자산총계
+에이피알,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2308,부채총계
+에이피알,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에코프로에이치엔,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2239,당기순이익
+에코프로에이치엔,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2252,영업이익
+에코프로에이치엔,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2240,매출액
+에코프로에이치엔,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2260,자산총계
+에코프로에이치엔,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2251,부채총계
+에코프로에이치엔,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에코프로에이치엔,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2239,당기순이익
+에코프로에이치엔,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2252,영업이익
+에코프로에이치엔,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2240,매출액
+에코프로에이치엔,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2260,자산총계
+에코프로에이치엔,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2251,부채총계
+에코프로에이치엔,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에프에스티,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2687;2688,당기순이익;당기순이익(손실)
+에프에스티,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2707,영업이익
+에프에스티,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2689,매출액
+에프에스티,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2715,자산총계
+에프에스티,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2700,부채총계
+에프에스티,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+에프에스티,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2687;2688,당기순이익;당기순이익(손실)
+에프에스티,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2707,영업이익
+에프에스티,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2689,매출액
+에프에스티,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2715,자산총계
+에프에스티,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2700,부채총계
+에프에스티,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+엔씨소프트,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,880;881;898,당기순이익;당기순이익(손실);연결당기순이익
+엔씨소프트,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,901,영업이익(손실)
+엔씨소프트,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+엔씨소프트,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,914,자산총계
+엔씨소프트,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,897,부채총계
+엔씨소프트,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+엔씨소프트,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,880;881;898,당기순이익;당기순이익(손실);연결당기순이익
+엔씨소프트,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,901,영업이익(손실)
+엔씨소프트,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+엔씨소프트,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,914,자산총계
+엔씨소프트,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,897,부채총계
+엔씨소프트,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+엔켐,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2058,당기순이익(손실)
+엔켐,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2073,영업이익(손실)
+엔켐,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2060,매출액
+엔켐,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2082,자산총계
+엔켐,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2071,부채총계
+엔켐,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+엔켐,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2058,당기순이익(손실)
+엔켐,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2073,영업이익(손실)
+엔켐,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2060,매출액
+엔켐,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2082,자산총계
+엔켐,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2071,부채총계
+엔켐,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+엘앤에프,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2345;2346,당기순이익;당기순이익(손실)
+엘앤에프,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2367,영업이익(손실)
+엘앤에프,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2366,수익(매출액)
+엘앤에프,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2379,자산총계
+엘앤에프,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2364,부채총계
+엘앤에프,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+엘앤에프,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2345;2346,당기순이익;당기순이익(손실)
+엘앤에프,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2367,영업이익(손실)
+엘앤에프,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2366,수익(매출액)
+엘앤에프,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2379,자산총계
+엘앤에프,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2364,부채총계
+엘앤에프,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+영원무역,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1905,당기순이익
+영원무역,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1911,영업이익
+영원무역,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+영원무역,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+영원무역,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+영원무역,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+영원무역,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1905,당기순이익
+영원무역,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1911,영업이익
+영원무역,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+영원무역,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+영원무역,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+영원무역,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+오뚜기,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1241,당기순이익
+오뚜기,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1256,영업이익
+오뚜기,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+오뚜기,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1265,자산총계
+오뚜기,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1253,부채총계
+오뚜기,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+오뚜기,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1241,당기순이익
+오뚜기,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1256,영업이익
+오뚜기,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+오뚜기,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1265,자산총계
+오뚜기,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1253,부채총계
+오뚜기,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+와이지엔터테인먼트,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2590;2591,당기순이익;당기순이익(손실)
+와이지엔터테인먼트,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2614;2615,영업이익;영업이익(손실)
+와이지엔터테인먼트,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2593,매출액
+와이지엔터테인먼트,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2626,자산총계
+와이지엔터테인먼트,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2606,부채총계
+와이지엔터테인먼트,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+와이지엔터테인먼트,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2590;2591,당기순이익;당기순이익(손실)
+와이지엔터테인먼트,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2614;2615,영업이익;영업이익(손실)
+와이지엔터테인먼트,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2593,매출액
+와이지엔터테인먼트,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2626,자산총계
+와이지엔터테인먼트,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2606,부채총계
+와이지엔터테인먼트,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익IPS,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2189;2190,당기순이익;당기순이익(손실)
+원익IPS,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2212,영업이익
+원익IPS,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2192,매출액
+원익IPS,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2225,자산총계
+원익IPS,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2211,부채총계
+원익IPS,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익IPS,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2189;2190,당기순이익;당기순이익(손실)
+원익IPS,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2212,영업이익
+원익IPS,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2192,매출액
+원익IPS,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2225,자산총계
+원익IPS,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2211,부채총계
+원익IPS,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익QnC,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2398,당기순이익(손실)
+원익QnC,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2415,영업이익(손실)
+원익QnC,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2413,수익(매출액)
+원익QnC,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2424,자산총계
+원익QnC,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2409,부채총계
+원익QnC,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익QnC,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2398,당기순이익(손실)
+원익QnC,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2415,영업이익(손실)
+원익QnC,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2413,수익(매출액)
+원익QnC,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2424,자산총계
+원익QnC,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2409,부채총계
+원익QnC,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익머트리얼즈,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3519,당기순이익(손실)
+원익머트리얼즈,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3540,영업이익(손실)
+원익머트리얼즈,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3538,수익(매출액)
+원익머트리얼즈,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3553,자산총계
+원익머트리얼즈,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3534,부채총계
+원익머트리얼즈,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익머트리얼즈,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3519,당기순이익(손실)
+원익머트리얼즈,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3540,영업이익(손실)
+원익머트리얼즈,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3538,수익(매출액)
+원익머트리얼즈,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3553,자산총계
+원익머트리얼즈,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3534,부채총계
+원익머트리얼즈,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익피앤이,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4274,당기순이익
+원익피앤이,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4297,영업이익
+원익피앤이,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4276,매출액
+원익피앤이,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4310,자산총계
+원익피앤이,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4292,부채총계
+원익피앤이,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익피앤이,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4274,당기순이익
+원익피앤이,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4297,영업이익
+원익피앤이,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4276,매출액
+원익피앤이,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4310,자산총계
+원익피앤이,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4292,부채총계
+원익피앤이,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익홀딩스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4064;4065;4082;4097;4098,(1) 당기순이익;(1)당기순이익;Ⅵ. 당기순이익;당기순이익(손실);당기연결순이익
+원익홀딩스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4073;4123,Ⅳ. 영업이익;영업이익
+원익홀딩스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4067;4099,Ⅰ. 매출액;매출액
+원익홀딩스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4137,자산총계
+원익홀딩스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4116,부채총계
+원익홀딩스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+원익홀딩스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4064;4065;4082;4097;4098,(1) 당기순이익;(1)당기순이익;Ⅵ. 당기순이익;당기순이익(손실);당기연결순이익
+원익홀딩스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4073;4123,Ⅳ. 영업이익;영업이익
+원익홀딩스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4067;4099,Ⅰ. 매출액;매출액
+원익홀딩스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4137,자산총계
+원익홀딩스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4116,부채총계
+원익홀딩스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+유니퀘스트,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4030,당기순이익
+유니퀘스트,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4042,영업이익
+유니퀘스트,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4031,매출액
+유니퀘스트,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4053,자산총계
+유니퀘스트,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4040,부채총계
+유니퀘스트,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+유니퀘스트,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4030,당기순이익
+유니퀘스트,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4042,영업이익
+유니퀘스트,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4031,매출액
+유니퀘스트,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4053,자산총계
+유니퀘스트,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4040,부채총계
+유니퀘스트,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+유바이오로직스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3674,당기순이익(손실)
+유바이오로직스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3692,영업이익(손실)
+유바이오로직스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3675;3690,매출액;수익(매출액)
+유바이오로직스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3700,자산총계
+유바이오로직스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3689,부채총계
+유바이오로직스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+유바이오로직스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3674,당기순이익(손실)
+유바이오로직스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3692,영업이익(손실)
+유바이오로직스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3675;3690,매출액;수익(매출액)
+유바이오로직스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3700,자산총계
+유바이오로직스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3689,부채총계
+유바이오로직스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+유한양행,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1401,당기순이익
+유한양행,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1423,영업이익
+유한양행,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1402,매출액
+유한양행,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1435,자산총계
+유한양행,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1421,부채총계
+유한양행,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+유한양행,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1401,당기순이익
+유한양행,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1423,영업이익
+유한양행,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1402,매출액
+유한양행,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1435,자산총계
+유한양행,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1421,부채총계
+유한양행,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+이수페타시스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4437;4449,(1) 당기순이익;당기순이익(손실)
+이수페타시스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4466,영업이익(손실)
+이수페타시스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4450;4464,매출액;수익(매출액)
+이수페타시스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4475,자산총계
+이수페타시스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4462,부채총계
+이수페타시스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+이수페타시스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4437;4449,(1) 당기순이익;당기순이익(손실)
+이수페타시스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4466,영업이익(손실)
+이수페타시스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4450;4464,매출액;수익(매출액)
+이수페타시스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4475,자산총계
+이수페타시스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4462,부채총계
+이수페타시스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+인바디,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3837,당기순이익(손실)
+인바디,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3852,영업이익(손실)
+인바디,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3838,매출액
+인바디,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3860,자산총계
+인바디,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3848,부채총계
+인바디,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+인바디,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3837,당기순이익(손실)
+인바디,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3852,영업이익(손실)
+인바디,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3838,매출액
+인바디,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3860,자산총계
+인바디,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3848,부채총계
+인바디,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+인탑스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3185,당기순이익(손실)
+인탑스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3200,영업이익(손실)
+인탑스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3187,매출액
+인탑스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3210,자산총계
+인탑스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3198,부채총계
+인탑스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+인탑스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3185,당기순이익(손실)
+인탑스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3200,영업이익(손실)
+인탑스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3187,매출액
+인탑스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3210,자산총계
+인탑스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3198,부채총계
+인탑스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+제노코,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2452,당기순이익(손실)
+제노코,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2467,영업이익(손실)
+제노코,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2465,수익(매출액)
+제노코,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2479,자산총계
+제노코,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2463,부채총계
+제노코,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+제노코,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2452,당기순이익(손실)
+제노코,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2467,영업이익(손실)
+제노코,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2465,수익(매출액)
+제노코,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2479,자산총계
+제노코,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2463,부채총계
+제노코,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+제우스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2884,당기순이익(손실)
+제우스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2899,영업이익(손실)
+제우스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2885,매출액
+제우스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2908,자산총계
+제우스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2896,부채총계
+제우스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+제우스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2884,당기순이익(손실)
+제우스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2899,영업이익(손실)
+제우스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2885,매출액
+제우스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2908,자산총계
+제우스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2896,부채총계
+제우스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+젬백스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4578,당기순이익(손실)
+젬백스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4592,영업이익(손실)
+젬백스,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+젬백스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4597,자산총계
+젬백스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4589,부채총계
+젬백스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+젬백스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4578,당기순이익(손실)
+젬백스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4592,영업이익(손실)
+젬백스,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+젬백스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4597,자산총계
+젬백스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4589,부채총계
+젬백스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+지놈앤컴퍼니,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3720,당기순이익(손실)
+지놈앤컴퍼니,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3732,영업이익(손실)
+지놈앤컴퍼니,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3721,매출액
+지놈앤컴퍼니,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3740,자산총계
+지놈앤컴퍼니,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3730,부채총계
+지놈앤컴퍼니,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+지놈앤컴퍼니,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3720,당기순이익(손실)
+지놈앤컴퍼니,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3732,영업이익(손실)
+지놈앤컴퍼니,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3721,매출액
+지놈앤컴퍼니,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3740,자산총계
+지놈앤컴퍼니,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3730,부채총계
+지놈앤컴퍼니,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+진원생명과학,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2955;2956,당기순이익;당기순이익(손실)
+진원생명과학,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2972,영업이익(손실)
+진원생명과학,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2970,수익(매출액)
+진원생명과학,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2981,자산총계
+진원생명과학,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2968,부채총계
+진원생명과학,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+진원생명과학,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2955;2956,당기순이익;당기순이익(손실)
+진원생명과학,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2972,영업이익(손실)
+진원생명과학,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2970,수익(매출액)
+진원생명과학,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2981,자산총계
+진원생명과학,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2968,부채총계
+진원생명과학,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+카카오페이,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4364,당기순이익(손실)
+카카오페이,2021,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4378,영업이익(손실)
+카카오페이,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+카카오페이,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4386,자산총계
+카카오페이,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4375,부채총계
+카카오페이,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+카카오페이,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4364,당기순이익(손실)
+카카오페이,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4378,영업이익(손실)
+카카오페이,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+카카오페이,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4386,자산총계
+카카오페이,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4375,부채총계
+카카오페이,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+컴투스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3876,당기순이익(손실)
+컴투스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3901,영업이익(손실)
+컴투스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3900,수익(매출액)
+컴투스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3915,자산총계
+컴투스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3897,부채총계
+컴투스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+컴투스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3876,당기순이익(손실)
+컴투스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3901,영업이익(손실)
+컴투스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3900,수익(매출액)
+컴투스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3915,자산총계
+컴투스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3897,부채총계
+컴투스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+켐트로닉스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2848,당기순이익(손실)
+켐트로닉스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2861,영업이익(손실)
+켐트로닉스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2860,수익(매출액)
+켐트로닉스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2870,자산총계
+켐트로닉스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2858,부채총계
+켐트로닉스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+켐트로닉스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2848,당기순이익(손실)
+켐트로닉스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2861,영업이익(손실)
+켐트로닉스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2860,수익(매출액)
+켐트로닉스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2870,자산총계
+켐트로닉스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2858,부채총계
+켐트로닉스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+코리아써키트,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1872;3037,당기순이익(손실)
+코리아써키트,2021,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+코리아써키트,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1873;3038,매출액
+코리아써키트,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1900;3070,자산총계
+코리아써키트,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1889;3054,부채총계
+코리아써키트,2021,employees,conflicting_values,final CSV + wide workbook,CSV / Sheet1,,직원수
+코리아써키트,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1872;3037,당기순이익(손실)
+코리아써키트,2022,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+코리아써키트,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1873;3038,매출액
+코리아써키트,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1900;3070,자산총계
+코리아써키트,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1889;3054,부채총계
+코리아써키트,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+코오롱티슈진,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4485;4502;4503,1.당기순이익(손실);당기순이익;당기순이익(손실)
+코오롱티슈진,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4519,영업이익(손실)
+코오롱티슈진,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4504,매출액
+코오롱티슈진,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4529,자산총계
+코오롱티슈진,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4517,부채총계
+코오롱티슈진,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+코오롱티슈진,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4485;4502;4503,1.당기순이익(손실);당기순이익;당기순이익(손실)
+코오롱티슈진,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4519,영업이익(손실)
+코오롱티슈진,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4504,매출액
+코오롱티슈진,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4529,자산총계
+코오롱티슈진,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4517,부채총계
+코오롱티슈진,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+코웨이,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1615,당기순이익
+코웨이,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1628,영업이익(손실)
+코웨이,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1616,매출액
+코웨이,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1634,자산총계
+코웨이,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1626,부채총계
+코웨이,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+코웨이,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1615,당기순이익
+코웨이,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1628,영업이익(손실)
+코웨이,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1616,매출액
+코웨이,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1634,자산총계
+코웨이,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1626,부채총계
+코웨이,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+큐렉소,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3569,당기순이익(손실)
+큐렉소,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3582,영업이익(손실)
+큐렉소,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3581,수익(매출액)
+큐렉소,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3589,자산총계
+큐렉소,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3580,부채총계
+큐렉소,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+큐렉소,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3569,당기순이익(손실)
+큐렉소,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3582,영업이익(손실)
+큐렉소,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3581,수익(매출액)
+큐렉소,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3589,자산총계
+큐렉소,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3580,부채총계
+큐렉소,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+테크윙,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2754,당기순이익(손실)
+테크윙,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2768,영업이익(손실)
+테크윙,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2766,수익(매출액)
+테크윙,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2776,자산총계
+테크윙,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2764,부채총계
+테크윙,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+테크윙,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2754,당기순이익(손실)
+테크윙,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2768,영업이익(손실)
+테크윙,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2766,수익(매출액)
+테크윙,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2776,자산총계
+테크윙,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2764,부채총계
+테크윙,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+티씨케이,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4201;4230;4237;4238,(1) 당기순이익;Ⅵ. 당기순이익;당기순이익;당기순이익(손실)
+티씨케이,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4228;4250,Ⅳ. 영업이익;영업이익(손실)
+티씨케이,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4225;4248,Ⅰ. 매출액;수익(매출액)
+티씨케이,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4259,자산총계
+티씨케이,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4247,부채총계
+티씨케이,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+티씨케이,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4201;4230;4237;4238,(1) 당기순이익;Ⅵ. 당기순이익;당기순이익;당기순이익(손실)
+티씨케이,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4228;4250,Ⅳ. 영업이익;영업이익(손실)
+티씨케이,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4225;4248,Ⅰ. 매출액;수익(매출액)
+티씨케이,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4259,자산총계
+티씨케이,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4247,부채총계
+티씨케이,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+파크시스템스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2097,당기순이익(손실)
+파크시스템스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2110,영업이익(손실)
+파크시스템스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2108,수익(매출액)
+파크시스템스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2119,자산총계
+파크시스템스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2107,부채총계
+파크시스템스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+파크시스템스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2097,당기순이익(손실)
+파크시스템스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2110,영업이익(손실)
+파크시스템스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2108,수익(매출액)
+파크시스템스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2119,자산총계
+파크시스템스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,2107,부채총계
+파크시스템스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+팬오션,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1090,당기순이익(손실)
+팬오션,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1102,영업이익(손실)
+팬오션,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1091,매출액
+팬오션,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1108,자산총계
+팬오션,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1101,부채총계
+팬오션,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+팬오션,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1090,당기순이익(손실)
+팬오션,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1102,영업이익(손실)
+팬오션,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1091,매출액
+팬오션,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1108,자산총계
+팬오션,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1101,부채총계
+팬오션,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+펩트론,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3636,당기순이익(손실)
+펩트론,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3649,영업이익(손실)
+펩트론,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3637,매출액
+펩트론,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3658,자산총계
+펩트론,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3647,부채총계
+펩트론,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+펩트론,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3636,당기순이익(손실)
+펩트론,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3649,영업이익(손실)
+펩트론,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3637,매출액
+펩트론,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3658,자산총계
+펩트론,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3647,부채총계
+펩트론,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+포스코퓨처엠,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,156,당기순이익(손실)
+포스코퓨처엠,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,169,영업이익(손실)
+포스코퓨처엠,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,168,수익(매출액)
+포스코퓨처엠,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,178,자산총계
+포스코퓨처엠,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,166,부채총계
+포스코퓨처엠,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+포스코퓨처엠,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,156,당기순이익(손실)
+포스코퓨처엠,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,169,영업이익(손실)
+포스코퓨처엠,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,168,수익(매출액)
+포스코퓨처엠,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,178,자산총계
+포스코퓨처엠,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,166,부채총계
+포스코퓨처엠,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+풍산,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1440,당기순이익(손실)
+풍산,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1459,영업이익(손실)
+풍산,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1441,매출액
+풍산,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1474,자산총계
+풍산,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1458,부채총계
+풍산,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+풍산,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1440,당기순이익(손실)
+풍산,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1459,영업이익(손실)
+풍산,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1441,매출액
+풍산,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1474,자산총계
+풍산,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1458,부채총계
+풍산,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+프레스티지바이오,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4609;4610,당기순이익;당기순이익(손실)
+프레스티지바이오,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4625,영업이익(손실)
+프레스티지바이오,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4622,수익(매출액)
+프레스티지바이오,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4632,자산총계
+프레스티지바이오,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4621,부채총계
+프레스티지바이오,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+프레스티지바이오,2022,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4609;4610,당기순이익;당기순이익(손실)
+프레스티지바이오,2022,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4625,영업이익(손실)
+프레스티지바이오,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4622,수익(매출액)
+프레스티지바이오,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4632,자산총계
+프레스티지바이오,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4621,부채총계
+프레스티지바이오,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국가스공사,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,534,당기순이익(손실)
+한국가스공사,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,553,영업이익
+한국가스공사,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,551,수익(매출액)
+한국가스공사,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,563,자산총계
+한국가스공사,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,549,부채총계
+한국가스공사,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국가스공사,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,534,당기순이익(손실)
+한국가스공사,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,553,영업이익
+한국가스공사,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,551,수익(매출액)
+한국가스공사,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,563,자산총계
+한국가스공사,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,549,부채총계
+한국가스공사,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국전력,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,244,당기순이익(손실)
+한국전력,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,269,영업이익(손실)
+한국전력,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,267,수익(매출액)
+한국전력,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,285,자산총계
+한국전력,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,265,부채총계
+한국전력,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국전력,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,244,당기순이익(손실)
+한국전력,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,269,영업이익(손실)
+한국전력,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,267,수익(매출액)
+한국전력,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,285,자산총계
+한국전력,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,265,부채총계
+한국전력,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국조선해양,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1694,당기순이익(손실)
+한국조선해양,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1707,영업이익(손실)
+한국조선해양,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1695,매출액
+한국조선해양,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1715,자산총계
+한국조선해양,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1706,부채총계
+한국조선해양,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국조선해양,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1694,당기순이익(손실)
+한국조선해양,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1707,영업이익(손실)
+한국조선해양,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1695,매출액
+한국조선해양,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1715,자산총계
+한국조선해양,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1706,부채총계
+한국조선해양,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국타이어앤테크놀로지,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1532;1533,당기순이익;당기순이익(손실)
+한국타이어앤테크놀로지,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1549,영업이익
+한국타이어앤테크놀로지,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1534,매출액
+한국타이어앤테크놀로지,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1557,자산총계
+한국타이어앤테크놀로지,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1545,부채총계
+한국타이어앤테크놀로지,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국타이어앤테크놀로지,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1532;1533,당기순이익;당기순이익(손실)
+한국타이어앤테크놀로지,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1549,영업이익
+한국타이어앤테크놀로지,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1534,매출액
+한국타이어앤테크놀로지,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1557,자산총계
+한국타이어앤테크놀로지,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1545,부채총계
+한국타이어앤테크놀로지,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국항공우주,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,778;779,당기순이익;당기순이익(손실)
+한국항공우주,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,792,영업이익(손실)
+한국항공우주,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,780,매출액
+한국항공우주,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,800,자산총계
+한국항공우주,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,791,부채총계
+한국항공우주,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한국항공우주,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,778;779,당기순이익;당기순이익(손실)
+한국항공우주,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,792,영업이익(손실)
+한국항공우주,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,780,매출액
+한국항공우주,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,800,자산총계
+한국항공우주,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,791,부채총계
+한국항공우주,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한미약품,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,923,당기순이익
+한미약품,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,948,영업이익
+한미약품,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,925,매출액
+한미약품,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,962,자산총계
+한미약품,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,945,부채총계
+한미약품,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한미약품,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,923,당기순이익
+한미약품,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,948,영업이익
+한미약품,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,925,매출액
+한미약품,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,962,자산총계
+한미약품,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,945,부채총계
+한미약품,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한샘,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1271,당기순이익(손실)
+한샘,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1287;1288,영업이익;영업이익(손실)
+한샘,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1272,매출액
+한샘,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1296,자산총계
+한샘,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1286,부채총계
+한샘,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한샘,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1271,당기순이익(손실)
+한샘,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1287;1288,영업이익;영업이익(손실)
+한샘,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1272,매출액
+한샘,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1296,자산총계
+한샘,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1286,부채총계
+한샘,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한솔케미칼,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3275;3276,당기순이익;당기순이익(손실)
+한솔케미칼,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3299,영업이익
+한솔케미칼,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3298,수익(매출액)
+한솔케미칼,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3314,자산총계
+한솔케미칼,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3295,부채총계
+한솔케미칼,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한솔케미칼,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3275;3276,당기순이익;당기순이익(손실)
+한솔케미칼,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3299,영업이익
+한솔케미칼,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3298,수익(매출액)
+한솔케미칼,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3314,자산총계
+한솔케미칼,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,3295,부채총계
+한솔케미칼,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한온시스템,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2021,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1561,매출액
+한온시스템,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한온시스템,2022,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2022,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1561,매출액
+한온시스템,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한온시스템,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한진칼,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1926,당기순이익(손실)
+한진칼,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1949;1950,영업이익;영업이익(손실)
+한진칼,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1948,수익(매출액)
+한진칼,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1964,자산총계
+한진칼,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1946,부채총계
+한진칼,2021,employees,missing,final CSV + wide workbook,CSV / Sheet1,,직원수
+한진칼,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1926,당기순이익(손실)
+한진칼,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1949;1950,영업이익;영업이익(손실)
+한진칼,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1948,수익(매출액)
+한진칼,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1964,자산총계
+한진칼,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1946,부채총계
+한진칼,2022,employees,missing,final CSV + wide workbook,CSV / Sheet1,,직원수
+한화솔루션,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,439,당기순이익
+한화솔루션,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,453,영업이익
+한화솔루션,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,440,매출액
+한화솔루션,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,460,자산총계
+한화솔루션,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,452,부채총계
+한화솔루션,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한화솔루션,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,439,당기순이익
+한화솔루션,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,453,영업이익
+한화솔루션,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,440,매출액
+한화솔루션,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,460,자산총계
+한화솔루션,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,452,부채총계
+한화솔루션,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한화에어로스페이스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1114,당기순이익(손실)
+한화에어로스페이스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1129,영업이익
+한화에어로스페이스,2021,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한화에어로스페이스,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1137,자산총계
+한화에어로스페이스,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1126,부채총계
+한화에어로스페이스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+한화에어로스페이스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1114,당기순이익(손실)
+한화에어로스페이스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1129,영업이익
+한화에어로스페이스,2022,revenue,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+한화에어로스페이스,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1137,자산총계
+한화에어로스페이스,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1126,부채총계
+한화에어로스페이스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대건설,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1002,당기순이익
+현대건설,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1018,영업이익
+현대건설,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1003,매출액
+현대건설,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1026,자산총계
+현대건설,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1017,부채총계
+현대건설,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대건설,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1002,당기순이익
+현대건설,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1018,영업이익
+현대건설,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1003,매출액
+현대건설,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1026,자산총계
+현대건설,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1017,부채총계
+현대건설,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대글로비스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,518,당기순이익
+현대글로비스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,524,영업이익
+현대글로비스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,519,매출액
+현대글로비스,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대글로비스,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대글로비스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대글로비스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,518,당기순이익
+현대글로비스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,524,영업이익
+현대글로비스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,519,매출액
+현대글로비스,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대글로비스,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대글로비스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대모비스,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,293,당기순이익
+현대모비스,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,300,영업이익
+현대모비스,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,294,매출액
+현대모비스,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대모비스,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대모비스,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대모비스,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,293,당기순이익
+현대모비스,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,300,영업이익
+현대모비스,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,294,매출액
+현대모비스,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대모비스,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대모비스,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대바이오,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4729,당기순이익(손실)
+현대바이오,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4739,영업이익(손실)
+현대바이오,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4730,매출액
+현대바이오,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4746,자산총계
+현대바이오,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4738,부채총계
+현대바이오,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대바이오,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4729,당기순이익(손실)
+현대바이오,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4739,영업이익(손실)
+현대바이오,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4730,매출액
+현대바이오,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4746,자산총계
+현대바이오,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,4738,부채총계
+현대바이오,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대백화점,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대백화점,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1085,영업이익(손실)
+현대백화점,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1080,매출액
+현대백화점,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대백화점,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대백화점,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대백화점,2022,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대백화점,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1085,영업이익(손실)
+현대백화점,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1080,매출액
+현대백화점,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대백화점,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대백화점,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대오토에버,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1176,당기순이익
+현대오토에버,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1189,영업이익
+현대오토에버,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1177,매출액
+현대오토에버,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1196,자산총계
+현대오토에버,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1188,부채총계
+현대오토에버,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대오토에버,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1176,당기순이익
+현대오토에버,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1189,영업이익
+현대오토에버,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1177,매출액
+현대오토에버,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1196,자산총계
+현대오토에버,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1188,부채총계
+현대오토에버,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대위아,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1485,당기순이익(손실)
+현대위아,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1499,영업이익(손실)
+현대위아,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1486,매출액
+현대위아,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1507,자산총계
+현대위아,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1497,부채총계
+현대위아,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대위아,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1485,당기순이익(손실)
+현대위아,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1499,영업이익(손실)
+현대위아,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1486,매출액
+현대위아,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1507,자산총계
+현대위아,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1497,부채총계
+현대위아,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대자동차,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,120,연결당기순이익
+현대자동차,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,121,영업이익
+현대자동차,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,114,매출액
+현대자동차,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대자동차,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대자동차,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대자동차,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,120,연결당기순이익
+현대자동차,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,121,영업이익
+현대자동차,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,114,매출액
+현대자동차,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대자동차,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+현대자동차,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대제철,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,744;745,당기순이익;당기순이익(손실)
+현대제철,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,762;763,영업이익;영업이익(손실)
+현대제철,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,746,매출액
+현대제철,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,770,자산총계
+현대제철,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,761,부채총계
+현대제철,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대제철,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,744;745,당기순이익;당기순이익(손실)
+현대제철,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,762;763,영업이익;영업이익(손실)
+현대제철,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,746,매출액
+현대제철,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,770,자산총계
+현대제철,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,761,부채총계
+현대제철,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대중공업,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,655,당기순이익(손실)
+현대중공업,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,671,영업이익(손실)
+현대중공업,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,656,매출액
+현대중공업,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,682,자산총계
+현대중공업,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,670,부채총계
+현대중공업,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+현대중공업,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,655,당기순이익(손실)
+현대중공업,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,671,영업이익(손실)
+현대중공업,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,656,매출액
+현대중공업,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,682,자산총계
+현대중공업,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,670,부채총계
+현대중공업,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+호텔신라,2021,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+호텔신라,2021,operating_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1071,V. 영업이익
+호텔신라,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1070,I.  매출액
+호텔신라,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+호텔신라,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+호텔신라,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+호텔신라,2022,net_income,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+호텔신라,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1071,V. 영업이익
+호텔신라,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1070,I.  매출액
+호텔신라,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+호텔신라,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+호텔신라,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+효성중공업,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1213,당기순이익(손실)
+효성중공업,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1227,영업이익
+효성중공업,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1214,매출액
+효성중공업,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1233,자산총계
+효성중공업,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1224,부채총계
+효성중공업,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+효성중공업,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1213,당기순이익(손실)
+효성중공업,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1227,영업이익
+효성중공업,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1214,매출액
+효성중공업,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1233,자산총계
+효성중공업,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1224,부채총계
+효성중공업,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+효성첨단소재,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1798,당기순이익(손실)
+효성첨단소재,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1806,영업이익(손실)
+효성첨단소재,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1804,수익(매출액)
+효성첨단소재,2021,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+효성첨단소재,2021,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+효성첨단소재,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+효성첨단소재,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1798,당기순이익(손실)
+효성첨단소재,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1806,영업이익(손실)
+효성첨단소재,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1804,수익(매출액)
+효성첨단소재,2022,assets,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+효성첨단소재,2022,liabilities,missing,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,,
+효성첨단소재,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+휴젤,2021,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1977,당기순이익
+휴젤,2021,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1991,영업이익
+휴젤,2021,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1978,매출액
+휴젤,2021,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1999,자산총계
+휴젤,2021,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1989,부채총계
+휴젤,2021,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수
+휴젤,2022,net_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1977,당기순이익
+휴젤,2022,operating_income,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1991,영업이익
+휴젤,2022,revenue,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1978,매출액
+휴젤,2022,assets,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1999,자산총계
+휴젤,2022,liabilities,observed_unique,KOSPI_KOSDAQ_merge (2).xlsx,Sheet1,1989,부채총계
+휴젤,2022,employees,observed_unique,final CSV + wide workbook,CSV / Sheet1,,직원수

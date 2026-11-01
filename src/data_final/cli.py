@@ -29,6 +29,12 @@ def main():
     run.add_argument("input", type=Path)
     run.add_argument("--output", type=Path, default=Path("reports/runs/real"))
     run.add_argument("--test-year", type=int, default=2024)
+    audit = commands.add_parser("audit-legacy", help="Reconcile the five original local files")
+    audit.add_argument("--source-dir", type=Path, required=True)
+    audit.add_argument("--output", type=Path, default=Path("reports/runs/source_audit"))
+    legacy = commands.add_parser("analyze-legacy", help="Evaluate the recovered two-year dataset")
+    legacy.add_argument("input", type=Path)
+    legacy.add_argument("--output", type=Path, default=Path("reports/runs/legacy"))
     args = parser.parse_args()
     if args.command == "demo":
         panel = synthetic_panel(args.seed)
@@ -41,6 +47,14 @@ def main():
         result = collect(
             args.universe, list(range(args.start_year, args.end_year + 1)), args.output, args.cache
         )
+    elif args.command == "audit-legacy":
+        from data_final.legacy import prepare_legacy
+
+        _, result = prepare_legacy(args.source_dir, args.output)
+    elif args.command == "analyze-legacy":
+        from data_final.legacy_analysis import analyze_legacy
+
+        result = analyze_legacy(pd.read_csv(args.input), args.output)
     else:
         panel = validate_panel(pd.read_csv(args.input, dtype={"corp_code": str, "reprt_code": str}))
         result = (

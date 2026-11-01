@@ -1,0 +1,160 @@
+{
+  "raw_rows": 4794,
+  "companies": 138,
+  "merge_exactly_matches_source_concat": true,
+  "raw_exact_duplicate_rows": 33,
+  "duplicate_companies": [
+    "코리아써키트"
+  ],
+  "fill_audit": {
+    "2021": {
+      "filled_cells": 598,
+      "changed_observed_cells": 0,
+      "raw_global_median": 33087031231.0,
+      "replacement_values": [
+        33087031231
+      ]
+    },
+    "2022": {
+      "filled_cells": 536,
+      "changed_observed_cells": 0,
+      "raw_global_median": 33898331929.0,
+      "replacement_values": [
+        33898331929
+      ]
+    }
+  },
+  "financial_rows_unmatched": 0,
+  "standardized_duplicate_groups": 429,
+  "standardized_extra_rows": 540,
+  "unsafe_total_mappings": [
+    {
+      "계정과목_원본": "부채와 자본총계",
+      "계정과목_표준": "자본총계",
+      "rows": 2
+    },
+    {
+      "계정과목_원본": "부채와자본총계",
+      "계정과목_표준": "자본총계",
+      "rows": 8
+    },
+    {
+      "계정과목_원본": "자본과 부채총계",
+      "계정과목_표준": "부채총계",
+      "rows": 1
+    },
+    {
+      "계정과목_원본": "자본과부채총계",
+      "계정과목_표준": "부채총계",
+      "rows": 85
+    }
+  ],
+  "repeated_employee_pairs": [
+    {
+      "2021": 453,
+      "2022": 507,
+      "companies": 10,
+      "names": [
+        "CJ바이오사이언스",
+        "ISC",
+        "JTC",
+        "SFA반도체",
+        "리가켐바이오",
+        "셀바스AI",
+        "씨유메디칼",
+        "엔켐",
+        "원익IPS",
+        "원익QnC"
+      ]
+    },
+    {
+      "2021": 9082,
+      "2022": 9257,
+      "companies": 8,
+      "names": [
+        "CJ",
+        "CJ제일제당",
+        "HMM",
+        "LS",
+        "NAVER",
+        "POSCO홀딩스",
+        "S-Oil",
+        "영원무역"
+      ]
+    }
+  ],
+  "employee_pair_interpretation": "Review flags only; repetition alone does not prove imputation.",
+  "missing_metadata": [
+    "corp_code",
+    "currency",
+    "fs_div",
+    "reprt_code",
+    "actual_year",
+    "rcept_no"
+  ],
+  "manifest": [
+    {
+      "role": "final",
+      "filename": "KOSPI_KOSDAQ_merged_with_employees.csv",
+      "rows": 4930,
+      "companies": 138,
+      "sha256": "6a7f7371dd49a0989a42b6e13af59c64a18fcfd68b9e85f3efb1fe13e4cccb2c",
+      "sheet": "CSV"
+    },
+    {
+      "role": "kosdaq",
+      "filename": "kosdaq100.xlsx",
+      "rows": 2825,
+      "companies": 65,
+      "sha256": "80cbb9689f84d15e8141c86fbd7750e4af4ef92d2a8adf131fc00860a0735cfb",
+      "sheet": "Sheet1"
+    },
+    {
+      "role": "wide",
+      "filename": "KOSPI_KOSDAQ_merge (1).xlsx",
+      "rows": 132,
+      "companies": 131,
+      "sha256": "74d552439efb451e636b1020a28dee5b120218c0a0b6ea46cc92c1bd74e5c682",
+      "sheet": "Sheet1"
+    },
+    {
+      "role": "kospi",
+      "filename": "kospi100.xlsx",
+      "rows": 1969,
+      "companies": 74,
+      "sha256": "d56f0ecd14b3e833d7c59cbcd2a2f2b8edbfe4ded477b3c891101429350ddd48",
+      "sheet": "Sheet1"
+    },
+    {
+      "role": "merged",
+      "filename": "KOSPI_KOSDAQ_merge (2).xlsx",
+      "rows": 4794,
+      "companies": 138,
+      "sha256": "63f116e661828e38b8804abcc452050a952a9f84bc58eaf27ee871f31d3e2e7a",
+      "sheet": "Sheet1"
+    }
+  ],
+  "recovered_target_count_2022": 132,
+  "model_eligible_companies": 125,
+  "model_loss_count": 25,
+  "exclusions": {
+    "included": 125,
+    "fewer_than_two_financial_features": 7,
+    "missing_target": 6
+  },
+  "target_sign_disagreements": [
+    "코오롱티슈진"
+  ],
+  "legacy_target_missing_companies": [
+    "한온시스템",
+    "현대백화점",
+    "현대자동차",
+    "호텔신라"
+  ],
+  "employee_conflicts": [
+    {
+      "company": "코리아써키트",
+      "year": 2021
+    }
+  ]
+}

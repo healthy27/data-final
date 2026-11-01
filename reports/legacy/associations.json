@@ -1,0 +1,21 @@
+{
+  "comparisons": [
+    {
+      "sample": "all_complete_pairs",
+      "n": 102,
+      "pearson_r": 0.12315299088377255,
+      "pearson_p_exploratory": 0.21751776293195807,
+      "spearman_r": 0.1524403267033775,
+      "spearman_p_exploratory": 0.12612778089874066
+    },
+    {
+      "sample": "exclude_repeated_employee_pairs",
+      "n": 88,
+      "pearson_r": 0.13553971244892893,
+      "pearson_p_exploratory": 0.207988859976418,
+      "spearman_r": 0.1726970932500934,
+      "spearman_p_exploratory": 0.10761791064695497
+    }
+  ],
+  "interpretation": "Exploratory association, not causation."
+}

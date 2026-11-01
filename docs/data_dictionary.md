@@ -1,5 +1,11 @@
 # 데이터 계약과 수집 감사
 
+이 문서의 OFS·통화 계약은 새 DART 수집 경로에 적용합니다.
+제공 자료는 이 기준을 충족한다고 가정하지 않고 별도 `legacy_unverified` 데이터로 유지합니다.
+`data/reference/legacy_panel.csv`의 통화·연결 범위·기간은 unknown이며,
+회사 이름·연도·관측 재무 값·직원수·충돌 상태·반복 쌍 플래그를 보존합니다.
+세부 설계는 [제공 자료 방법론](legacy_methodology.md)을 참고하세요.
+
 CSV를 읽을 때 `corp_code`, `reprt_code`는 문자열로 읽습니다. 빈 숫자 값은 결측입니다.
 
 | 필드 | 의미 | 검증 |
